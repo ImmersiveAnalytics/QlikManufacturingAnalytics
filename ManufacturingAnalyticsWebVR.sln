@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{582BD0F4-14BF-9449-D3CA-1BC700F16A2B}") = "ManufacturingAnalyticsWebVR", "Assembly-CSharp-firstpass.csproj", "{40EECE03-B52D-0EF6-AF44-F7DF575B272F}"
+EndProject
+Project("{582BD0F4-14BF-9449-D3CA-1BC700F16A2B}") = "ManufacturingAnalyticsWebVR", "Assembly-CSharp.csproj", "{8D2C52E3-4A3D-D5BC-C54C-2BFEE0D7BB16}"
+EndProject
+Project("{582BD0F4-14BF-9449-D3CA-1BC700F16A2B}") = "ManufacturingAnalyticsWebVR", "Assembly-CSharp-Editor.csproj", "{5D9E5D20-D67D-2E88-CD14-BECC6FAC6FA5}"
+EndProject
+Project("{582BD0F4-14BF-9449-D3CA-1BC700F16A2B}") = "ManufacturingAnalyticsWebVR", "Assembly-UnityScript-firstpass.unityproj", "{E3B33702-09ED-2AA4-B720-05FB31EF0ED1}"
+EndProject
+Project("{582BD0F4-14BF-9449-D3CA-1BC700F16A2B}") = "ManufacturingAnalyticsWebVR", "Assembly-UnityScript.unityproj", "{AB070737-8794-2BFA-9868-BDE6FC68F3E1}"
+EndProject
+Project("{582BD0F4-14BF-9449-D3CA-1BC700F16A2B}") = "ManufacturingAnalyticsWebVR", "Assembly-UnityScript-Editor.unityproj", "{66E4FC19-F1C6-1F20-288D-7BA15964F945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40EECE03-B52D-0EF6-AF44-F7DF575B272F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EECE03-B52D-0EF6-AF44-F7DF575B272F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EECE03-B52D-0EF6-AF44-F7DF575B272F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EECE03-B52D-0EF6-AF44-F7DF575B272F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2C52E3-4A3D-D5BC-C54C-2BFEE0D7BB16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2C52E3-4A3D-D5BC-C54C-2BFEE0D7BB16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2C52E3-4A3D-D5BC-C54C-2BFEE0D7BB16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2C52E3-4A3D-D5BC-C54C-2BFEE0D7BB16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D9E5D20-D67D-2E88-CD14-BECC6FAC6FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9E5D20-D67D-2E88-CD14-BECC6FAC6FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9E5D20-D67D-2E88-CD14-BECC6FAC6FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9E5D20-D67D-2E88-CD14-BECC6FAC6FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B33702-09ED-2AA4-B720-05FB31EF0ED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B33702-09ED-2AA4-B720-05FB31EF0ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B33702-09ED-2AA4-B720-05FB31EF0ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B33702-09ED-2AA4-B720-05FB31EF0ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB070737-8794-2BFA-9868-BDE6FC68F3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB070737-8794-2BFA-9868-BDE6FC68F3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB070737-8794-2BFA-9868-BDE6FC68F3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB070737-8794-2BFA-9868-BDE6FC68F3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E4FC19-F1C6-1F20-288D-7BA15964F945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E4FC19-F1C6-1F20-288D-7BA15964F945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E4FC19-F1C6-1F20-288D-7BA15964F945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E4FC19-F1C6-1F20-288D-7BA15964F945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

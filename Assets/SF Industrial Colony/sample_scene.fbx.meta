@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: 0402dca97ff87754fba41c392f69e3c5
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Backdrop Item
+    100002: beams (2)
+    100004: building1
+    100006: building2
+    100008: building3
+    100010: Camera
+    100012: Camera (2)
+    100014: columns
+    100016: container
+    100018: crane
+    100020: crates
+    100022: decoration
+    100024: decoration (2)
+    100026: details (2)
+    100028: details (3)
+    100030: details (4)
+    100032: details (5)
+    100034: details (6)
+    100036: Directional Light
+    100038: door
+    100040: door (2)
+    100042: door (3)
+    100044: doors
+    100046: gangway
+    100048: grate box
+    100050: ground second floor
+    100052: ladder_small
+    100054: lamps (2)
+    100056: lamps (3)
+    100058: lantern
+    100060: lights
+    100062: Mesh
+    100064: Mesh (4)
+    100066: more houses
+    100068: Outdoor Spherical 03.lxe
+    100070: Outdoor Spherical 03.lxe (2)
+    100072: palette
+    100074: pillars
+    100076: pipes
+    100078: pipes (2)
+    100080: platforms (2)
+    100082: Point Light
+    100084: Point Light (10)
+    100086: Point Light (11)
+    100088: Point Light (12)
+    100090: Point Light (13)
+    100092: Point Light (14)
+    100094: Point Light (15)
+    100096: Point Light (16)
+    100098: Point Light (17)
+    100100: Point Light (18)
+    100102: Point Light (19)
+    100104: Point Light (2)
+    100106: Point Light (20)
+    100108: Point Light (21)
+    100110: Point Light (22)
+    100112: Point Light (23)
+    100114: Point Light (24)
+    100116: Point Light (25)
+    100118: Point Light (26)
+    100120: Point Light (27)
+    100122: Point Light (28)
+    100124: Point Light (29)
+    100126: Point Light (3)
+    100128: Point Light (30)
+    100130: Point Light (31)
+    100132: Point Light (32)
+    100134: Point Light (33)
+    100136: Point Light (34)
+    100138: Point Light (35)
+    100140: Point Light (36)
+    100142: Point Light (37)
+    100144: Point Light (38)
+    100146: Point Light (39)
+    100148: Point Light (4)
+    100150: Point Light (40)
+    100152: Point Light (41)
+    100154: Point Light (42)
+    100156: Point Light (5)
+    100158: Point Light (6)
+    100160: Point Light (7)
+    100162: Point Light (8)
+    100164: Point Light (9)
+    100166: Point Light Ground
+    100168: Point Light Ground (2)
+    100170: Point Light Ground (3)
+    100172: Point Light Ground (4)
+    100174: Point Light Ground (5)
+    100176: Point Light Ground (6)
+    100178: Point Light Ground (7)
+    100180: Point Light Ground (8)
+    100182: RADSKY-010SX
+    100184: railings
+    100186: railings (2)
+    100188: railings (3)
+    100190: road
+    100192: roofs
+    100194: roofs (2)
+    100196: //RootNode
+    100198: silo
+    100200: stairs (2)
+    100202: stairs (3)
+    100204: stairs (4)
+    100206: terrain
+    100208: Texture Group
+    100210: Texture Group (2)
+    100212: tower
+    100214: wall
+    100216: wheel
+    100218: wheel_barrow
+    100220: windows
+    400000: Backdrop Item
+    400002: beams (2)
+    400004: building1
+    400006: building2
+    400008: building3
+    400010: Camera
+    400012: Camera (2)
+    400014: columns
+    400016: container
+    400018: crane
+    400020: crates
+    400022: decoration
+    400024: decoration (2)
+    400026: details (2)
+    400028: details (3)
+    400030: details (4)
+    400032: details (5)
+    400034: details (6)
+    400036: Directional Light
+    400038: door
+    400040: door (2)
+    400042: door (3)
+    400044: doors
+    400046: gangway
+    400048: grate box
+    400050: ground second floor
+    400052: ladder_small
+    400054: lamps (2)
+    400056: lamps (3)
+    400058: lantern
+    400060: lights
+    400062: Mesh
+    400064: Mesh (4)
+    400066: more houses
+    400068: Outdoor Spherical 03.lxe
+    400070: Outdoor Spherical 03.lxe (2)
+    400072: palette
+    400074: pillars
+    400076: pipes
+    400078: pipes (2)
+    400080: platforms (2)
+    400082: Point Light
+    400084: Point Light (10)
+    400086: Point Light (11)
+    400088: Point Light (12)
+    400090: Point Light (13)
+    400092: Point Light (14)
+    400094: Point Light (15)
+    400096: Point Light (16)
+    400098: Point Light (17)
+    400100: Point Light (18)
+    400102: Point Light (19)
+    400104: Point Light (2)
+    400106: Point Light (20)
+    400108: Point Light (21)
+    400110: Point Light (22)
+    400112: Point Light (23)
+    400114: Point Light (24)
+    400116: Point Light (25)
+    400118: Point Light (26)
+    400120: Point Light (27)
+    400122: Point Light (28)
+    400124: Point Light (29)
+    400126: Point Light (3)
+    400128: Point Light (30)
+    400130: Point Light (31)
+    400132: Point Light (32)
+    400134: Point Light (33)
+    400136: Point Light (34)
+    400138: Point Light (35)
+    400140: Point Light (36)
+    400142: Point Light (37)
+    400144: Point Light (38)
+    400146: Point Light (39)
+    400148: Point Light (4)
+    400150: Point Light (40)
+    400152: Point Light (41)
+    400154: Point Light (42)
+    400156: Point Light (5)
+    400158: Point Light (6)
+    400160: Point Light (7)
+    400162: Point Light (8)
+    400164: Point Light (9)
+    400166: Point Light Ground
+    400168: Point Light Ground (2)
+    400170: Point Light Ground (3)
+    400172: Point Light Ground (4)
+    400174: Point Light Ground (5)
+    400176: Point Light Ground (6)
+    400178: Point Light Ground (7)
+    400180: Point Light Ground (8)
+    400182: RADSKY-010SX
+    400184: railings
+    400186: railings (2)
+    400188: railings (3)
+    400190: road
+    400192: roofs
+    400194: roofs (2)
+    400196: //RootNode
+    400198: silo
+    400200: stairs (2)
+    400202: stairs (3)
+    400204: stairs (4)
+    400206: terrain
+    400208: Texture Group
+    400210: Texture Group (2)
+    400212: tower
+    400214: wall
+    400216: wheel
+    400218: wheel_barrow
+    400220: windows
+    2300000: beams (2)
+    2300002: building1
+    2300004: building2
+    2300006: building3
+    2300008: columns
+    2300010: container
+    2300012: crane
+    2300014: crates
+    2300016: decoration
+    2300018: decoration (2)
+    2300020: details (2)
+    2300022: details (3)
+    2300024: details (4)
+    2300026: details (5)
+    2300028: details (6)
+    2300030: door
+    2300032: door (2)
+    2300034: door (3)
+    2300036: doors
+    2300038: gangway
+    2300040: grate box
+    2300042: ground second floor
+    2300044: ladder_small
+    2300046: lamps (2)
+    2300048: lamps (3)
+    2300050: lantern
+    2300052: Mesh (4)
+    2300054: more houses
+    2300056: palette
+    2300058: pillars
+    2300060: pipes
+    2300062: pipes (2)
+    2300064: platforms (2)
+    2300066: railings
+    2300068: railings (2)
+    2300070: railings (3)
+    2300072: road
+    2300074: roofs
+    2300076: roofs (2)
+    2300078: silo
+    2300080: stairs (2)
+    2300082: stairs (3)
+    2300084: stairs (4)
+    2300086: terrain
+    2300088: tower
+    2300090: wall
+    2300092: wheel
+    2300094: wheel_barrow
+    2300096: windows
+    3300000: beams (2)
+    3300002: building1
+    3300004: building2
+    3300006: building3
+    3300008: columns
+    3300010: container
+    3300012: crane
+    3300014: crates
+    3300016: decoration
+    3300018: decoration (2)
+    3300020: details (2)
+    3300022: details (3)
+    3300024: details (4)
+    3300026: details (5)
+    3300028: details (6)
+    3300030: door
+    3300032: door (2)
+    3300034: door (3)
+    3300036: doors
+    3300038: gangway
+    3300040: grate box
+    3300042: ground second floor
+    3300044: ladder_small
+    3300046: lamps (2)
+    3300048: lamps (3)
+    3300050: lantern
+    3300052: Mesh (4)
+    3300054: more houses
+    3300056: palette
+    3300058: pillars
+    3300060: pipes
+    3300062: pipes (2)
+    3300064: platforms (2)
+    3300066: railings
+    3300068: railings (2)
+    3300070: railings (3)
+    3300072: road
+    3300074: roofs
+    3300076: roofs (2)
+    3300078: silo
+    3300080: stairs (2)
+    3300082: stairs (3)
+    3300084: stairs (4)
+    3300086: terrain
+    3300088: tower
+    3300090: wall
+    3300092: wheel
+    3300094: wheel_barrow
+    3300096: windows
+    4300000: building1
+    4300002: doors
+    4300004: crane
+    4300006: details (6)
+    4300008: container
+    4300010: lantern
+    4300012: palette
+    4300014: wheel
+    4300016: crates
+    4300018: wheel_barrow
+    4300020: grate box
+    4300022: pipes
+    4300024: ladder_small
+    4300026: terrain
+    4300028: silo
+    4300030: road
+    4300032: building2
+    4300034: platforms (2)
+    4300036: stairs (2)
+    4300038: lamps (2)
+    4300040: details (2)
+    4300042: railings
+    4300044: roofs
+    4300046: beams (2)
+    4300048: decoration
+    4300050: wall
+    4300052: building3
+    4300054: windows
+    4300056: door
+    4300058: stairs (3)
+    4300060: pillars
+    4300062: columns
+    4300064: pipes (2)
+    4300066: details (3)
+    4300068: railings (2)
+    4300070: roofs (2)
+    4300072: lamps (3)
+    4300074: decoration (2)
+    4300076: tower
+    4300078: details (4)
+    4300080: stairs (4)
+    4300082: ground second floor
+    4300084: railings (3)
+    4300086: door (2)
+    4300088: gangway
+    4300090: door (3)
+    4300092: Mesh (4)
+    4300094: details (5)
+    4300096: more houses
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 50
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

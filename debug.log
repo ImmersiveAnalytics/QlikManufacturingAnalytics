@@ -1,0 +1,163 @@
+[0822/180814:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[0822/180814:INFO:(0)] WebCore is now online.
+[0822/180814:INFO:(0)] Running Awesomium 1.7.5.1
+[0822/180819:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0822/181430:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0822/181430:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0822/181459:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0822/181743:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0822/182124:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0823/081726:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0823/083750:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/091304:ERROR:tcp_client_socket_win.cc(505)] connect failed: 10055
+[0824/091304:WARNING:net_errors_win.cc(114)] Unknown error 10055 mapped to net::ERR_FAILED
+[0824/091304:ERROR:tcp_client_socket_win.cc(505)] connect failed: 10055
+[0824/091304:WARNING:net_errors_win.cc(114)] Unknown error 10055 mapped to net::ERR_FAILED
+[0824/091304:ERROR:tcp_client_socket_win.cc(505)] connect failed: 10055
+[0824/091304:WARNING:net_errors_win.cc(114)] Unknown error 10055 mapped to net::ERR_FAILED
+[0824/091304:ERROR:tcp_client_socket_win.cc(505)] connect failed: 10055
+[0824/091304:WARNING:net_errors_win.cc(114)] Unknown error 10055 mapped to net::ERR_FAILED
+[0824/091304:ERROR:tcp_client_socket_win.cc(505)] connect failed: 10055
+[0824/091304:WARNING:net_errors_win.cc(114)] Unknown error 10055 mapped to net::ERR_FAILED
+[0824/091304:ERROR:tcp_client_socket_win.cc(505)] connect failed: 10055
+[0824/091304:WARNING:net_errors_win.cc(114)] Unknown error 10055 mapped to net::ERR_FAILED
+[0824/091304:ERROR:tcp_client_socket_win.cc(505)] connect failed: 10055
+[0824/091304:WARNING:net_errors_win.cc(114)] Unknown error 10055 mapped to net::ERR_FAILED
+[0824/091304:ERROR:tcp_client_socket_win.cc(505)] connect failed: 10055
+[0824/091304:WARNING:net_errors_win.cc(114)] Unknown error 10055 mapped to net::ERR_FAILED
+[0824/091524:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/091524:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/091928:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/092526:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/092703:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/093025:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/093025:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/094751:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/094751:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/095042:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/095235:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/095715:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/095931:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/095931:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/110935:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/110935:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/111230:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/113428:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/131724:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/141022:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/141821:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/141846:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/143526:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/143857:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/144645:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/144708:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/145026:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/145540:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/145817:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/152229:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/153416:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/153736:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/154125:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/154533:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/155352:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/155352:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/160410:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/161511:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/161646:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/162517:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/162540:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/162550:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/162550:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/163752:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/163752:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/164454:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/164708:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/165511:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/165623:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0824/165826:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0824/180058:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0825/003220:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0825/004338:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0829/071314:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0829/071516:INFO:dhcp_proxy_script_adapter_fetcher_win.cc(265)] Error fetching PAC URL from DHCP: 2
+[0905/110747:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[0905/110747:INFO:(0)] WebCore is now online.
+[0905/110747:INFO:(0)] Running Awesomium 1.7.5.1
+[0905/110749:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0905/110856:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/155915:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[0906/155915:INFO:(0)] WebCore is now online.
+[0906/155915:INFO:(0)] Running Awesomium 1.7.5.1
+[0906/155918:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0906/171415:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/180456:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[0906/180456:INFO:(0)] WebCore is now online.
+[0906/180456:INFO:(0)] Running Awesomium 1.7.5.1
+[0906/180458:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0906/180715:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/182121:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/220130:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/220206:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/220548:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/220630:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/221106:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/221228:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/221400:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/221815:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/221924:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/222008:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/222025:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/222036:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/222055:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/231309:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/232540:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/232655:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0906/232933:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0907/141724:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0907/145355:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0907/155433:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0907/170418:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0907/171014:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0907/175851:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[0907/175851:INFO:(0)] WebCore is now online.
+[0907/175851:INFO:(0)] Running Awesomium 1.7.5.1
+[0907/175853:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0907/191154:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0907/191913:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0909/192346:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[0909/192346:INFO:(0)] WebCore is now online.
+[0909/192346:INFO:(0)] Running Awesomium 1.7.5.1
+[0909/192348:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0909/192538:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0910/063848:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[0910/063848:INFO:(0)] WebCore is now online.
+[0910/063848:INFO:(0)] Running Awesomium 1.7.5.1
+[0910/063850:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0910/070526:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0910/070539:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0910/070743:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0910/072338:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0910/072338:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0911/070416:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[0911/070416:INFO:(0)] WebCore is now online.
+[0911/070416:INFO:(0)] Running Awesomium 1.7.5.1
+[0911/070435:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0911/071515:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[0911/110735:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0912/140929:ERROR:ipc_channel_win.cc(261)] pipe error: 109
+[0913/064520:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[0913/064520:INFO:(0)] WebCore is now online.
+[0913/064520:INFO:(0)] Running Awesomium 1.7.5.1
+[0913/064523:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[1002/093141:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[1002/093141:INFO:(0)] WebCore is now online.
+[1002/093141:INFO:(0)] Running Awesomium 1.7.5.1
+[1002/093143:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[1002/093618:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1017/153230:ERROR:internal_helper.cc(460)] Error while parsing config paths, the following directory does not exist: C:/Users/demo/Documents/Qlik/ManufacturingAnalytics/ManufacturingAnalyticsWebVR/Assets\awe_plugins
+[1017/153230:INFO:(0)] WebCore is now online.
+[1017/153230:INFO:(0)] Running Awesomium 1.7.5.1
+[1017/153233:INFO:gpu_child_thread.cc(111)] gpu_info_collector::CollectGraphicsInfo complete. success = 1
+[1017/153411:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1017/155022:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[1017/155957:ERROR:ipc_channel_win.cc(360)] pipe error: 232
