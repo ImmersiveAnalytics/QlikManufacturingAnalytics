@@ -12,7 +12,7 @@ In the corner on the wall behind the user is a Qlik Sense web mashup showing 3 c
 - On the bottom, users can see all of the historical sensor values
 
 ## Requirements
-- *Used in conjunction with  [Qlik Manufacturing Node Server](https://github.com/ImmersiveAnalytics/QlikManufacturingNodeServer)*
+- *Used in conjunction with  [Lambda Package Node Server](https://github.com/ImmersiveAnalytics/LambdaPackage)*
 - Must have Qlik Sense Desktop or Server application running with Node.js middleware app
 - Must have Unity 5.3.4p1 installed
 
