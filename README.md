@@ -11,6 +11,8 @@ In the corner on the wall behind the user is a Qlik Sense web mashup showing 3 c
 - In the middle, users can see all the sensor readings for the current widget
 - On the bottom, users can see all of the historical sensor values
 
+[![Video documentation of Manufacturing Analytics](https://img.youtube.com/vi/VwbG20pvPzY/0.jpg)](https://www.youtube.com/watch?v=VwbG20pvPzY)
+
 ## Requirements
 - *Used in conjunction with  [Qlik Lambda Package Node Server](https://github.com/ImmersiveAnalytics/LambdaPackage)*
 - Must have Qlik Sense Desktop or Server application running with Node.js middleware app
