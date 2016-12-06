@@ -14,7 +14,7 @@ In the corner on the wall behind the user is a Qlik Sense web mashup showing 3 c
 [![Video documentation of Manufacturing Analytics](https://img.youtube.com/vi/VwbG20pvPzY/0.jpg)](https://www.youtube.com/watch?v=VwbG20pvPzY)
 
 ## Requirements
-- *Used in conjunction with  [Qlik Lambda Package Node Server](https://github.com/ImmersiveAnalytics/LambdaPackage)*
+- *Used in conjunction with  [Qlik Lambda Package Node.js Server](https://github.com/ImmersiveAnalytics/LambdaPackage)*
 - Must have Qlik Sense Desktop or Server application running with Node.js middleware app
 - Must have Unity 5.3.4p1 installed
 
