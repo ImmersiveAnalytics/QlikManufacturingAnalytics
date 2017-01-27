@@ -16,7 +16,9 @@ In the corner on the wall behind the user is a Qlik Sense web mashup showing 3 c
 ## Requirements
 - *Used in conjunction with  [Qlik Lambda Package Node.js Server](https://github.com/ImmersiveAnalytics/LambdaPackage)*
 - Must have Qlik Sense Desktop or Server application running with Node.js middleware app
-- Must have Unity 5.3.4p1 installed
+- Must have Unity 5.4.0f3 (32-bit) installed
+- Uses [Awesomium](https://github.com/bkeiren/AwesomiumUnity) for rendering Qlik web Mashup
+  - Copy DLLs from AwesomiumDLLs folder into your Unity's installation Editor folder (not your project folder).
 
 ## To Run
 Either play from the Unity Editor or build a standalone app for the Oculus Rift.
